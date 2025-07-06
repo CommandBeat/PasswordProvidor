@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "PasswordManager"
+version = "0.1.0"
+license = "MIT"
+description = "Just a password manager"
+authors = [{ name="CommandBeat", email="agabaradford@gmail.com" }]
+dependencies = ["random", "string"]

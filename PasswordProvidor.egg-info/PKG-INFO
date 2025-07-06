@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: PasswordProvidor
+Version: 0.0.1
+Summary: Just a simple password manager library
+Author: CommandBeat
+License-File: LICENSE
+Dynamic: author
+Dynamic: license-file
+Dynamic: summary

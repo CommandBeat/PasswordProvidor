@@ -1,0 +1,9 @@
+LICENSE
+setup.py
+PasswordProvidor/__init__.py
+PasswordProvidor/generator.py
+PasswordProvidor.egg-info/PKG-INFO
+PasswordProvidor.egg-info/SOURCES.txt
+PasswordProvidor.egg-info/dependency_links.txt
+PasswordProvidor.egg-info/top_level.txt
+tests/test_core.py
