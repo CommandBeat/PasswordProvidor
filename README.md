@@ -13,5 +13,5 @@ I will be using the [**MIT LICENSE**](https://mit-license.org/) for this project
 ## Credit
 There is none, not here.
 
-## Notes
-Try not to make an entire other Python library with **my** code.
+## Instructions
+It's simple enough.
